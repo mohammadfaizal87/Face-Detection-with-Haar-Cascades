@@ -186,7 +186,9 @@ plt.close()
 ![image](https://github.com/user-attachments/assets/75695956-a0af-48ea-92d0-51ecf7ec4367)
 
 ## IV) VIDEO FACE DETECTION:
-![Screenshot 2025-06-11 124646](https://github.com/user-attachments/assets/f2a95bb7-d8da-499a-9ab4-8551dd5b89ab)
+<img width="624" height="464" alt="image" src="https://github.com/user-attachments/assets/0d1cae9d-3873-4494-a2a7-d9f21802dda0" />
+
+
 
 
 ## RESULT:
